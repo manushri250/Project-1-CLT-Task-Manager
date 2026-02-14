@@ -65,6 +65,5 @@ def main():
         else:
             print("Invalid choice, try again.")
 
-# Start the program
 if __name__ == "__main__":
     main()
